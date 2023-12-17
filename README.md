@@ -9,7 +9,7 @@ Append rows and merge with reference table in sql wps r and python
            1 wps sql
            2 wps r sql
            3 wps python sql
-           3 wps r native
+           4 wps r native
              https://stackoverflow.com/users/12993861/stefan
 
 
